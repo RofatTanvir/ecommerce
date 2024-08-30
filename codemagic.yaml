@@ -5,8 +5,8 @@ workflows:
     instance_type: mac_mini_m1
     environment:
       vars:
-        XCODE_WORKSPACE: "me_ecommerce_practice.xcworkspace"
-        XCODE_SCHEME: "me_ecommerce_practice"
+        XCODE_WORKSPACE: "meEcommercePractice.xcworkspace"
+        XCODE_SCHEME: "meEcommercePractice"
       xcode: 15.4
       cocoapods: default
     scripts:
