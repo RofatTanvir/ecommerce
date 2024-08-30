@@ -41,7 +41,7 @@ dependencies:
   dots_indicator:
   fluttertoast: ^8.2.8
   flutter_launcher_icons: ^0.13.1
-  # google_mobile_ads: ^5.1.0
+  google_mobile_ads: ^5.1.0
   # shared_preferences: ^2.2.3
 
 dev_dependencies:
